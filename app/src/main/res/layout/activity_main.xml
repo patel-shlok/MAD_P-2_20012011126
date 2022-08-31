@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
-        android:textColor="@android:color/black"
+        android:textColor="@android:color/holo_blue_bright"
         android:textSize="27sp"
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
